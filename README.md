@@ -12,3 +12,7 @@
 <h3>After Checkout sales.json files gets updated - </h3>
 
 ![image](https://user-images.githubusercontent.com/65434341/132016663-7c075b48-675a-4318-90c0-4c10ef75a858.png)
+
+<h3>This is to be done at Admin side. Update/Add products - </h3>
+
+![image](https://user-images.githubusercontent.com/65434341/132047319-b00f1c00-26b4-4956-9e0c-c1b169a2feb0.png)
